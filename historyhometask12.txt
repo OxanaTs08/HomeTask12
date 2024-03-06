@@ -1,0 +1,16 @@
+  230  git status
+  231  git add README.md
+  232  git add .gitignore
+  233  git status
+  234  git rm READ.md
+  235  git remove READ.md
+  236  git --help
+  237  git commit -m "added new changes into file for homework12"
+  238  git push -u origin feature
+  239  git push
+  240  git commit --amend -m "+ammend"
+  241  git log --oneline
+  242  git show 38d6aa4
+  243  git status
+  244  git checkout main
+  245  git merge feature main
